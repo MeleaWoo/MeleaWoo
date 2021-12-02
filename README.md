@@ -1,0 +1,3 @@
+- 👋 Hi, this is Melea, a high school student
+- 👀 I’m interested in making animation with pygame 
+- 🌱 I’m currently learning Python and I'm new to html and JavaScript
